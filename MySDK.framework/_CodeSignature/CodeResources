@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/MySDK-Swift.h</key>
 		<data>
-		6sYTEeAqjA5Np8aOKtEeaYBl150=
+		YjOFRc0CuVQCBOwKMIfA02UQ3n4=
 		</data>
 		<key>Headers/MySDK.h</key>
 		<data>
@@ -14,27 +14,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		VoGpgqOMqN9g0OLzkv3lvpAHaRQ=
+		0bQuesNx8WgcsjiEZ+m9eLcGJnw=
 		</data>
 		<key>Modules/MySDK.swiftmodule/arm.swiftdoc</key>
 		<data>
-		aTFeFfgyvU9YX7INHUwjNI6YTQs=
+		IiWbwdD6J6YcM1dA+1Mde4Onv8o=
 		</data>
 		<key>Modules/MySDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		OZDcmdw79ZQsq8IR3/GYNkdThUA=
+		PZZaydDL//uMqa/VEO+MjcoUWrc=
 		</data>
 		<key>Modules/MySDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		1D2rVnpL7r/Bu9j8Bmezj+3ZdWg=
+		3srj7qTdrvHuvU9li7ZysL6i/cY=
 		</data>
 		<key>Modules/MySDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		3CwQjFtN/6Rm6wMfbkMbBR2MAYU=
+		TGT2uVjrB5y9nzU5YC0osmmNp58=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		F23tEjSC8qyNozmCEQrG7tgf1qI=
+		xvC28NhNJJwKLYlddB1ng0TRw4I=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -43,11 +43,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6sYTEeAqjA5Np8aOKtEeaYBl150=
+			YjOFRc0CuVQCBOwKMIfA02UQ3n4=
 			</data>
 			<key>hash2</key>
 			<data>
-			GVB3XGhCyxAbFo80RXcAFvIlvQNvjVxctbmfz0YF1Rs=
+			um2DblenFuzq69SSzT/tG1yzjMpBU+qr32AXFsvSyDU=
 			</data>
 		</dict>
 		<key>Headers/MySDK.h</key>
@@ -65,55 +65,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aTFeFfgyvU9YX7INHUwjNI6YTQs=
+			IiWbwdD6J6YcM1dA+1Mde4Onv8o=
 			</data>
 			<key>hash2</key>
 			<data>
-			TnPn7Ve5r0fUIjOBpqEV1KIwdpp1Aq4Ela7pO0bmhY8=
+			VVmj75azxJeoaYSgqxbniwu0fbfp+/3JaDhAkF9eUyc=
 			</data>
 		</dict>
 		<key>Modules/MySDK.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OZDcmdw79ZQsq8IR3/GYNkdThUA=
+			PZZaydDL//uMqa/VEO+MjcoUWrc=
 			</data>
 			<key>hash2</key>
 			<data>
-			3+FzRXTYEDb8GyLa+s1ViqoV7FI97GDz77YJNpzbkF8=
+			BccHqzwcSooWgn74n1D7Zny5xO+qFFA+nUJHkgC+W38=
 			</data>
 		</dict>
 		<key>Modules/MySDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1D2rVnpL7r/Bu9j8Bmezj+3ZdWg=
+			3srj7qTdrvHuvU9li7ZysL6i/cY=
 			</data>
 			<key>hash2</key>
 			<data>
-			kTKkX1itzMbhFrdP6Dhi67Iy+8GqMtzR2JIgNeNJt3Q=
+			eazw3blEioK1WmqaKw9eYhhBXsEwQrMDo7eiyxBN8E4=
 			</data>
 		</dict>
 		<key>Modules/MySDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3CwQjFtN/6Rm6wMfbkMbBR2MAYU=
+			TGT2uVjrB5y9nzU5YC0osmmNp58=
 			</data>
 			<key>hash2</key>
 			<data>
-			3uHZcLiQOrz0iYzNhMEsfuYYDPTcWzgfltaHPOkLlO4=
+			+cA+Kaz9sLWVagA/2sLiqjYghE6fyAlHmahN7Pe1nLA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			F23tEjSC8qyNozmCEQrG7tgf1qI=
+			xvC28NhNJJwKLYlddB1ng0TRw4I=
 			</data>
 			<key>hash2</key>
 			<data>
-			zBYuHkXiCS7ylZgn3PFnxKou+jIJIdJ1iFblhjA6ogk=
+			zGh7yH8xEFahrgha9mMUyzYyoCjlchusxzuVQ85WHuw=
 			</data>
 		</dict>
 	</dict>

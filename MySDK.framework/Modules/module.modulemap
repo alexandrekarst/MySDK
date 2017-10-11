@@ -7,5 +7,4 @@ framework module MySDK {
 
 module MySDK.Swift {
     header "MySDK-Swift.h"
-    requires objc
 }
